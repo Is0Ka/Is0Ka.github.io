@@ -26,7 +26,7 @@
     width: 99px;
     height: 100%;
     background: url(triggers.png);
-    opacity: 0;
+    opacity: 100;
 }
 
 .ds4 .trigger.left {
@@ -42,7 +42,7 @@
     width: 99px;
     height: 23px;
     background: url(bumper.png) no-repeat;
-    opacity: 0;
+    opacity: 100;
 }
 
 .ds4 .bumpers {
